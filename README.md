@@ -1,7 +1,7 @@
 # Pig Dice Game
 
 <p align="center">
-    <img src="https://i.postimg.cc/nr9CkNnV/pig-dice-game.png" />         
+    <img src="https://i.postimg.cc/Vs7NgNjN/pig-dice-game.png" />         
  </p>
 
 A simple dice game playable with just a single die and two players. You win by being the first player to score 100.
