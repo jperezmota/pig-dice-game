@@ -29,7 +29,7 @@ More about the game in [Wikipedia](https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 1. Clone the repository to your directory.
 ```
-https://github.com/jperezmota/pig-dice-game.git
+git clone https://github.com/jperezmota/pig-dice-game.git
 ```
 2. Open the `index.html` file and play.
 
